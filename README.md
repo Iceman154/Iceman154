@@ -4,6 +4,6 @@ Hi! I'm Ice_man154 but you can call me Flavio!
 
 I'm an Italian Developer!
 
-🖥️I'm actually programming in LUA, HTML, CSS and a little of Python
+🖥️I'm a FullStack Developer, Java Developer and Lua Developer
 
-🧑I'm working on https://discord.gg/idrp
+🧑I'm working on https://discord.gg/authenticrp
