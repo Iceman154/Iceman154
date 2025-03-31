@@ -2,8 +2,6 @@
 
 Hi! I'm Ice_man154 but you can call me Flavio!
 
-🖥️ I'm a FullStack Developer, Java Developer and Lua Developer
+🖥️ FullStack Developer & Java Developer
 
-🧑 I'm working on https://discord.gg/JRGnpPvpF9
-
-__If you need something contact me on Discord **ice_man154**__
+🧑 Working on [BK Web Dev](https://www.bkwebdev.com)
