@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 👨‍💻 All of my projects are available at [https://www.bkwebdev.com](https://www.bkwebdev.com)
+- 👨‍💻 All of my projects are available at [BK Web Dev](https://www.bkwebdev.com)
 
 - 💬 Ask me about **Java, Typescript, React**
 
