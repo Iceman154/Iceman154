@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [BK Web Dev](https://www.bkwebdev.com)
 
-- 💬 Ask me about **Java, Typescript, React**
+- 💬 Ask me about **Java, Typescript, Javascript, React, HTML, CSS**
 
 - 📫 How to reach me **flaviodimento@bkwebdev.com**
 
